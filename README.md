@@ -7,7 +7,8 @@ TCP Socket 통신을 이용한 체스 게임
 ### 1. ChessGame.sln 실행
 
 ### 2. ChessGameClient.sln 실행 (Player 1)
-![image](https://user-images.githubusercontent.com/56222489/180379161-1fcdca63-0928-4dc5-b332-348135511b0a.png)
+![c1](https://user-images.githubusercontent.com/56222489/180380087-2e0d758a-e77b-4bd0-9b8f-ef7ba22d9320.png)
+
 
 ### 3. ChessGameClient.sln 실행 (Player 2)
 ![c2](https://user-images.githubusercontent.com/56222489/180379315-61acf4c7-30e9-4a42-b042-30551669bb72.png)
